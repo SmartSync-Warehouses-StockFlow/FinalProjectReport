@@ -1,7 +1,7 @@
 <center>
 
 # Universidad Peruana De Ciencas Aplicadas
-## Desarrollo de Soluciones IOT
+## Arquitecturas De Software Emergentes
 
 </center>
 
@@ -10,20 +10,20 @@
 <center>
 
 # **Informe TB1**
-## **Ditto - Dittobox**
-## **Sección: WV71**  
-## Profesor: Angel Augusto Velasquez Nuñez
+## **SmartSync-Warehouses - StockFlow**
+## **Sección: SW82**  
+## Profesor: Royer Edelwer Rojas Malasquez
 
 
 </center>
 
 ## **Integrantes:**
 
-*  **Diego Fabian Cancho Coila**
-*  **José Anthony Arenas Conde**
-*  **Samuel Rolando Chamorro Torres**
-*  **Luis Eduardo Lagos Aguilar**
-*  **Anthony Jeandet Guerrero Castillo**
+*  **Chamorro Torres, Samuel Rolando**
+*  ****
+*  ****
+*  ****
+*  ****
 -----
 
 <center>
@@ -38,17 +38,17 @@
 
 | **Version** | **Fecha** | **Autor**                                                                               | **Descripcion de modificacion**                                                                 |
 |-------------|-----------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| 0.1         | 22/08/24  | Cancho Coila Diego        | Descripcion Profile Start Up             |
-| 0.2         | 07/09/24  | Arenas Conde José Anthony | Lean UX Process, EventStorming, Entrevista, Bounded Contexts          |
-| 0.3         | 07/09/24  | Lagos Aguilar, Luis Eduardo        | C4 Model, Entrevista    |
-| 0.4         | 07/09/24  | Guerrero Castillo, Anthony Jeandet       | Startup Profile, Solution Profile, entrevista, Impact Mapping, Context Mapping           |
+| 0.1         | 22/08/24  | Chamorro Torres Samuel Rolando        | Descripcion Profile Start Up             |
+| 0.2         | 07/09/24  |  | Lean UX Process, EventStorming, Entrevista, Bounded Contexts          |
+| 0.3         | 07/09/24  |         | C4 Model, Entrevista    |
+| 0.4         | 07/09/24  |        | Startup Profile, Solution Profile, entrevista, Impact Mapping, Context Mapping           |
 
 
 
 
 ## Project Report Collaboration Insights
 
-**Link del repositorio-Informe:** [https://github.com/DittoBox/FinalProjectReport](https://github.com/DittoBox/FinalProjectReport)
+**Link del repositorio-Informe:** [https://github.com/SmartSync-Warehouses-StockFlow/FinalProjectReport](https://github.com/SmartSync-Warehouses-StockFlow/FinalProjectReport) 
 
 **Link de los repositorios de la oraganización:** [https://github.com/orgs/DittoBox/repositories](https://github.com/orgs/DittoBox/repositories)
 
